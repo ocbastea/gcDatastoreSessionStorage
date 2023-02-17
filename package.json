@@ -1,6 +1,6 @@
 {
   "name": "@ocbastea/shopify-app-session-storage-gcdatastore",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Shopify App Session Storage for gcdatastore",
   "repository": {
     "type": "git",
