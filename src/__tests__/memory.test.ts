@@ -1,9 +1,9 @@
 import {batteryOfTests} from '@shopify/shopify-app-session-storage-test-utils';
 
-import {MemorySessionStorage} from '../memory';
+import {GCDatastoreSessioNStorage} from '../gcdatastore';
 
-describe('MemorySessionStorage', () => {
-  let storage: MemorySessionStorage;
+describe('GCDatastoreSessioNStorage', () => {
+  let storage: GCDatastoreSessioNStorage;
   beforeAll(async () => {
     storage = new MemorySessionStorage();
   });

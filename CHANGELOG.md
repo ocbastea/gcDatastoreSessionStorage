@@ -1,4 +1,4 @@
-# @shopify/shopify-app-session-storage-memory
+# @ocbastea/shopify-app-session-storage-memory
 
 
 
@@ -6,4 +6,4 @@
 
 ### Major Changes
 
-- Initial private release of @shopify/shopify-app-session-storage-gcdatastore
+- Initial private release of @ocbastea/shopify-app-session-storage-gcdatastore
