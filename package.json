@@ -1,7 +1,7 @@
 {
-  "name": "@shopify/shopify-app-session-storage-memory",
+  "name": "@shopify/shopify-app-session-storage-gcdatastore",
   "version": "1.0.3",
-  "description": "Shopify App Session Storage for Memory",
+  "description": "Shopify App Session Storage for gcdatastore",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shopify/shopify-app-js.git"
@@ -9,8 +9,8 @@
   "bugs": {
     "url": "https://github.com/Shopify/shopify-app-js/issues"
   },
-  "homepage": "https://github.com/Shopify/shopify-app-js/tree/main/packages/session-storage-memory",
-  "author": "Shopify Inc.",
+  "homepage": "https://github.com/ocbastea/gcDatastoreSessionStorage",
+  "author": "Ovidiu Bastea",
   "license": "MIT",
   "main": "./build/cjs/memory.js",
   "types": "./build/ts/memory.d.ts",
