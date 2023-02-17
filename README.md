@@ -1,4 +1,4 @@
-# In-Memory Session Storage
+# Shopify Session Storage Google Cloud DataStorage  
 
 This package implements the `SessionStorage` interface to work with Google Cloud Datastore.
 
