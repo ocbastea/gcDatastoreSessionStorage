@@ -13,8 +13,13 @@
   "author": "Ovidiu Bastea",
   "license": "MIT",
   "main": "./build/cjs/gcdatastore.js",
+
   "types": "./build/ts/gcdatastore.d.ts",
-  "scripts": {},
+  "scripts": {
+
+      "build":"tsc"
+  
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -37,7 +42,6 @@
   "devDependencies": {
     "@shopify/eslint-plugin": "^42.0.1",
     "@shopify/prettier-config": "^1.1.2",
-    "@shopify/shopify-app-session-storage-test-utils": "^0.1.0",
     "@types/jest": "^29.1.1",
     "eslint": "^8.24.0",
     "eslint-plugin-prettier": "^4.2.1",
