@@ -12,8 +12,8 @@
   "homepage": "https://github.com/ocbastea/gcDatastoreSessionStorage",
   "author": "Ovidiu Bastea",
   "license": "MIT",
-  "main": "./build/cjs/memory.js",
-  "types": "./build/ts/memory.d.ts",
+  "main": "./build/cjs/gcdatastore.js",
+  "types": "./build/ts/gcdatastore.d.ts",
   "scripts": {},
   "publishConfig": {
     "access": "public"
