@@ -24,7 +24,7 @@ export class GCDatastoreSessionStorage implements SessionStorage {
   }
 
   public async deleteSessions(ids: string[]): Promise<boolean> {
-    console.log('[GCDatastoreSessionStorage]: deleteSessions',id)
+    console.log('[GCDatastoreSessionStorage]: deleteSessions',ids)
     ids.forEach((id) => delete this.sessions[id]);
     return true;
   }
