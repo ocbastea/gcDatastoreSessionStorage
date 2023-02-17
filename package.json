@@ -4,10 +4,10 @@
   "description": "Shopify App Session Storage for gcdatastore",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-js.git"
+    "url": "git+https://github.com/ocbastea/gcDatastoreSessionStorage"
   },
   "bugs": {
-    "url": "https://github.com/Shopify/shopify-app-js/issues"
+    "url": "https://github.com/ocbastea/gcDatastoreSessionStorage/issues"
   },
   "homepage": "https://github.com/ocbastea/gcDatastoreSessionStorage",
   "author": "Ovidiu Bastea",
